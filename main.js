@@ -33,7 +33,7 @@ articleTwo.style.fontStyle = "italic";
 
 // Adding a Click Event () that adds text to para4 when clicked
 clickButton.addEventListener("click", () => {
-    articleFour.textContent = "The Document Object Model is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an boject representing a part of the document.";
+    articleFour.textContent = "The Document Object Model is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document.";
     articleFour.style.fontStyle = "italic";
 })
 
